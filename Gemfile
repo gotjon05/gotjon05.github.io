@@ -13,8 +13,15 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
+#A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages.
+gem "github-pages", group: :jekyll_plugins
 #time zone: https://github.com/tzinfo/tzinfo-data
-#gem "tzinfo-data"
+gem "tzinfo-data"
+#auto-regeneration feature that watches your source folder for changes and then re-builds your site. 
+gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+
+
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
 
