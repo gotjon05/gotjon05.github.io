@@ -66,13 +66,15 @@ author:
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/gotjon05" 
-
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/gotjon05"
     - label: "Gotjon05"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gotjon05/"
+    - label: "Cover Letter"
+      icon: "far fa-file-alt"
+      url: "/assets/images/Resume.docx"
 
 footer:
   links:
