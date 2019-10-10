@@ -1,3 +1,0 @@
-nokogiri
-bundle install will pick the newest available version satisfying a requirement, unless you specify concrete versions or upper bounds in the Gemfile.
-

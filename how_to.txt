@@ -1,0 +1,5 @@
+
+
+to increase width of _post 
+	https://github.com/mmistakes/minimal-mistakes/pull/1516
+
