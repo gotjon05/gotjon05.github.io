@@ -72,9 +72,9 @@ author:
     - label: "Gotjon05"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gotjon05/"
-    - label: "Cover Letter"
-      icon: "far fa-file-alt"
-      url: "/assets/images/Resume.pdf"
+    #- label: "Cover Letter"
+    #  icon: "far fa-file-alt"
+    #  url: "/assets/images/Resume.pdf"
 
 footer:
   links:
